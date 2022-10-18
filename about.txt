@@ -1,0 +1,19 @@
+NAME: 
+    THE MARKET
+
+SERVICE DESCRIPTION: 
+    1. a B2C ecommerce company (online intermediaries)
+
+AIM:
+    1. GET VISITORS TO SIGN-UP
+
+TYPE:
+    1. LEAD-GENERATION/SIGN-UP LANDING PAGE
+
+PULL:
+    1. HEADING: SELL ONLINE WITH THE MARKET
+
+    2. SUB-HEADING: TRUSTED BY MILLIONS OF BUSINESS OWNERS, LIKE YOU ALL AROUND AFRICA
+
+    3. AFTER THE FORM...
+    	- Try 'THE MARKET' free for 30 days, no credit card required. By entering your email, you agree to receive marketing emails from The Market.
